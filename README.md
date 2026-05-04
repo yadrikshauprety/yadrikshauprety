@@ -9,17 +9,6 @@ I focus on building scalable, real-world solutions with a strong backend and aut
 
 - 📫 How to reach me: **yadrikshauprety@gmail.com**
 
----
-
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.topcoder.com/members/560107" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="40" width="50" />
-  </a>
-</p>
-
----
 
 <h3 align="center">GitHub Stats</h3>
 
