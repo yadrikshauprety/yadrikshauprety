@@ -1,4 +1,4 @@
-<h1 align="center">Hii👋, I'm Yadriksha</h1>
+<h1 align="center">Hey👋, I'm Yadriksha</h1>
 
 <h3 align="center">
 I’m passionate about AI, systems, and full-stack development.  
